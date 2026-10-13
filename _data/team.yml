@@ -1190,3 +1190,11 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Varre":
+    firstname: Aditya
+    url: https://adityavarre.github.io/
+    profilepic: aditya_varre.jpg
+    position: Postdoc
+    alumni: false
+    permanent: false
